@@ -1,0 +1,2 @@
+# batamcatering
+Batam Catering is a catering service company that serves food orders for various events (seminar catering, Anjangsana catering, saresehan catering, work meeting catering, circumcision catering, walimahan catering, aqiqah catering, wedding catering, joint breaking fast catering, halal bihalal catering, rice boxes, snack boxes, travel events, gathering events, out door events, etc.) in Batam City, Riau Islands.
