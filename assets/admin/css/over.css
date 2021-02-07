@@ -1,0 +1,189 @@
+#overridethemescss
+
+.s-profile{
+    display: block;
+    height: 220px!important;
+    margin-bottom: 20px;
+    width: 100%;
+    background: rgba(177, 177, 177, 0.51)!important;
+    background-size: 100%
+}
+	
+.s-profile .sp-pic {
+    padding: 0px 80px
+}
+
+.s-profile>.image-cropper{
+    margin: 30px auto;
+}
+.s-profile .sp-pic>img {
+    width: 90px!important;
+    height: 90px!important;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border: 3px solid rgba(255, 255, 255, .54)!important;
+    box-sizing: content-box;
+    margin-top: 20px!important
+}
+
+.image-cropper {
+    width: 90px;
+    height: 90px;
+    position: relative;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+    
+.image-cropper>img{   
+    display: inline;
+    margin: 0px auto;
+    height: 100%;
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.s-profile .sp-info {
+    background: rgba(0,0,0,0);
+    color: #606060;
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+    font-size:14px;
+    font-weight:500;
+}
+.s-profile .sp-info2 {
+    background: rgba(0,0,0,0);
+    color: #606060;
+    position: relative;
+    text-align: center;
+    font-size:12px;
+}.s-profile .sp-btn{
+    background: rgba(0,0,0,0);
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+    font-size:14px;
+    font-weight:500;
+    margin-bottom:40px;
+}
+.btn{
+    /*border-radius: 20px!important;*/
+    min-width: auto
+}
+[data-ma-theme=kerjaannyasidhio] {
+    background-color: #961459
+}
+.logo a {
+    color: #fff;
+    display: block;
+}
+#header .logo a {
+    padding: 0px 10px
+}
+.iconcov{
+    margin: 20px 20px!important;
+}
+.cardcontainer{
+    padding: 34px 20px!important;
+}
+.cardtext-strong{
+    font-size: 36px;
+    font-weight:500;
+    color: #3c3c3c
+}
+.cardtext-small{
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #961459
+}
+.cardtext{
+        font-weight: 500;
+        font-size: 15px;
+        margin-bottom: 10px;
+        color: #3c3c3c
+    }
+
+/*.col-md-6{
+    width: 50%!important
+}*/
+.shadow-off{
+    box-shadow: none!important;
+}
+
+.btn-right{
+    float: right;
+}
+.bdr-0{
+    border-radius: 0px!important;
+}
+.card-header{
+    padding: 20px 27px 1px 27px!important;
+    background-color:#FFBD6A;
+}
+.block-header{
+    margin-left: 5px!important
+}
+.margin-15{
+    margin: 0px 5px!important
+}
+.margin-5t{
+    margin-top: 21px!important
+}
+.margin-2t{
+    margin-top: 8px!important
+}
+.table-title{
+    height: 50px
+}
+
+@media (max-width:991px) {
+    .centered{
+        text-align: center;
+    }
+    .posfoto{
+        margin: 20px auto!important;
+    }
+    .cardtext{
+        font-weight: 500;
+        font-size: 15px;
+        margin-bottom: 10px;
+        color: #3c3c3c
+    }
+}
+.profil-bg{
+    background: rgba(248, 248, 248, 1)!important;
+    height: 270px;
+    padding-top: 10px;
+    margin-bottom: -18px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .15)!important;
+}
+
+.margin-btn20{
+    margin: 0 20px;
+}
+.btn-round{
+    min-width: auto!important;
+}
+
+.f-wht{
+    color: #fff!important;
+}
+
+.clearlink{
+    text-decoration: none;
+    color: #fff
+}
+.clearlink:hover{
+    text-decoration: none;
+    color: #fff
+}
+
+.p-10-20{
+    padding: 10px 20px
+}

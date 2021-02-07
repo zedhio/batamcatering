@@ -1,0 +1,5 @@
+[06-Dec-2020 22:38:20 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/batx5763/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[07-Dec-2020 21:53:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/batx5763/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Dec-2020 22:14:36 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/batx5763/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Dec-2020 23:04:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/batx5763/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Dec-2020 23:07:02 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/batx5763/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
